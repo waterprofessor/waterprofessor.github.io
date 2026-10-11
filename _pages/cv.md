@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Biography"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,37 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Environmental Engineering, Penn State University, University Park, 2007-2011
+* M.S. in Environmental Engineering, Penn State University, University Park, 2004-2007
+* B.S. in Water Supply and Drainage Engineering, Hunan University (China), 2000-2004
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 08/2021 - Present: Associate Professor
+  * Indiana University of Pennsylvania, Indiana, PA
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 08/2016 - 07/2021: Assistant Professor
+  * Indiana University of Pennsylvania, Indiana, PA
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 01/2015 - 07/2016: Adjunct Professor
+  * Hunan University, Hunan province, China
+
+* 08/2013 - 07/2016: Environmental Consultant
+  * Minn Water LLC, Minneapolis, MN
+ 
+* 09/2012 - 08/2013: Process Engineer
+  * AEROMIX Systems Inc, Minneapolis, MN
+ 
+* 08/2011 - 08/2012: Postdoctoral Researcher
+  * Penn State Harrisburg, Middletown, PA
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Select Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +56,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Environmental Engineering Program Director
+* Editor of AI Advances
