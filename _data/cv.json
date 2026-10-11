@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
+    "name": "Hao Larry Tang, PhD, PE",
+    "email": "htang@iup.edu",
+    "phone": "+1 724-357-7925",
+    "website": "https://waterprofessor.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "address": "421 North Walk, 155 Kopchick Hall",
+      "postalCode": "17050",
+      "city": "Indiana, PA",
       "countryCode": "US",
       "region": ""
     },
@@ -16,46 +16,46 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=K4iViX0AAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0002-8215-6070"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "waterprofessor",
+        "url": "https://github.com/waterprofessor"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Penn State University, University Park",
+      "area": "Ph.D in Environmental Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2007",
+      "endDate": "2011",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Penn State University, University Park",
+      "area": "M.S. in Environmental Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2004",
+      "endDate": "2007",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Hunan University, China",
+      "area": "B.S. in Water Supply & Drainage Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2000",
+      "endDate": "2004",
       "gpa": null,
       "courses": []
     }
